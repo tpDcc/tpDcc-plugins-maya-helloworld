@@ -10,11 +10,10 @@ from __future__  import print_function, division, absolute_import, unicode_liter
 
 __author__ = "Tomas Poveda"
 __maintainer__ = "Tomas Poveda"
-__email__ = "tpoveda@cgart3d.com"
+__email__ = "tpovedatd@gmail.com"
 
-# region Imports
 import maya.OpenMayaMPx as OpenMayaMPx
-# endregion
+
 
 class HelloWorldPyCmd(OpenMayaMPx.MPxCommand, object):
 
